@@ -240,6 +240,8 @@ footer {
     padding-bottom: 2rem;
     margin-bottom: 6rem;
     margin: 3rem;
+    margin: 2rem auto;
+    margin-left: unset;
   }
   #section4 img.framework-image {
     margin-bottom: 3rem;

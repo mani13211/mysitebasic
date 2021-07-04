@@ -1,0 +1,27 @@
+
+
+ 
+:root{
+    --color1:#1B262C;
+    --color2:#0F4C75;
+    --color3:#3282B8;
+    --color4:#BBE1FA;
+    --grey:grey;
+    --whitesmoke:whitesmoke;
+   
+
+    --bg-color:red;
+  
+  
+  
+}
+
+
+//convert css variable to scss variable 
+$bg-color : var(--bg-color);
+$whitesmoke:var(--whitesmoke);
+$color1:var(--color1);
+$color2:var(--color2);
+$color3:var(--color3);
+$color4:var(--color4);
+$grey:var(--grey);

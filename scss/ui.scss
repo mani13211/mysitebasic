@@ -260,6 +260,10 @@ footer{
   .text-div {
     margin-top: 3rem;
 }
+ .main-content {
+  margin: 5rem 1rem;
+  padding: 0rem;
+}
 }
   #section1 img {
     width: inherit;
@@ -277,7 +281,7 @@ footer{
 
 #section3 .skill-container .skill-card {
 
-  margin: 2rem none;
+  margin: 2rem auto;
   margin-left:unset
 }
 #section4 {
@@ -290,5 +294,9 @@ footer{
 
 
 }
+#section6 {
 
+  padding: 2rem 5rem;
+
+}
 }

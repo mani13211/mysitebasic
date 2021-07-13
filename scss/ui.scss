@@ -260,10 +260,6 @@ footer{
   .text-div {
     margin-top: 3rem;
 }
- .main-content {
-  margin: 5rem 1rem;
-  padding: 0rem;
-}
 }
   #section1 img {
     width: inherit;
@@ -281,27 +277,10 @@ footer{
 
 #section3 .skill-container .skill-card {
 
-
-
-    color: black;
-    width: 24rem;
-    padding: 0rem 0rem;
-    padding-bottom: 2rem;
-    margin-bottom: 6rem;
-    margin: 3rem;
-    
-  margin: 2rem auto;
-  margin-left:unset;
-
+  margin: 2rem none;
+  margin-left:unset
 }
 #section4 {
-
-    background-color: var(--whitesmoke);
-    margin: 4rem 0rem;
-    padding: 1rem;
-    color: grey;
-    text-align: center;
-
 
 
   img.framework-image {
@@ -311,10 +290,5 @@ footer{
 
 
 }
-#section6 {
 
-  padding: 2rem 5rem;
-  text-align: center;
-
-}
 }
